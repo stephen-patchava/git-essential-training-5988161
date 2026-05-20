@@ -1,1 +1,1 @@
-This is the file added directly to the remote repository.
+This is the file added directly in the remote repository.
